@@ -1,6 +1,6 @@
 #coding=utf8
 
-TOKEN = '9g6qhQ3Tud555MB'
+TOKEN = 'akaya'
 APP_ID = 'wx1fe475b4554474ee'
 SECRET_KEY = '169b8bacb3e703f4063dee755f35bb7b'
 TULING_KEY = 'daa07de27fc64becb689c69c83a5e81f'
